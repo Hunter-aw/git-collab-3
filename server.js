@@ -1,4 +1,4 @@
-let fix = "this is a fix"
 
-
-fix.topUpperCase()
+const z= "find x"
+z.topUpperCase()
+const bugs= "spider not bug ggg"
