@@ -1,3 +1,4 @@
-const z= "find x"
 
+const z= "find x"
+z.topUpperCase()
 const bugs= "spider not bug ggg"
